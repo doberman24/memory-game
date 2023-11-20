@@ -2,7 +2,7 @@ import { useState } from "react";
 import Card from "./Card";
 import { TIMEOUT } from "./game/settings";
 
-function Grid({images, finishCards, steps}) {
+function Grid({images, backCards, finishCards, steps}) {
 
     const [showCards, setShowCards] = useState([]);
 
@@ -38,7 +38,7 @@ function Grid({images, finishCards, steps}) {
     ));
   
     return (
-        <ul className="cards cards-theme-cars">
+        <ul className={`cards cards-theme-${backCards}`}>
             {cards}
         </ul>
     );
