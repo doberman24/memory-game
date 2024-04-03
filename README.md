@@ -4,7 +4,7 @@ A card game consisting of paired pictures, where the main goal of the game is to
 
 The game is written in React. The code is taken from practical lessons from the HTML Academy, and slightly modified. Namely, at this stage, the code is structured and located in different files, some nuances have been changed. Further refinement is planned.
 
-**The application can be launched by following the link http://memory.samanig.ru.**
+**The application can be launched by following the link http://memory.lixit.ru.**
 
 ## Available Scripts
 
