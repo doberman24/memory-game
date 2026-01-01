@@ -1,10 +1,20 @@
 # Memory Game
 
-A card game consisting of paired pictures, where the main goal of the game is to "open" as many paired cards as possible. The game is played with two identical decks of cards with pictures on the front side. It is necessary to open all pairs of cards in a certain number of moves.
+Classic memory card game built with React.
 
-The game is written in React. The code is structured and located in different files.
+## Description
 
-**The application can be launched by following the link http://memory.lixit.ru.**
+The game allows users to flip cards and find matching pairs.
+The project focuses on state management, event handling, and component-based architecture.
+
+## Technologies
+
+- React
+- JavaScript
+
+## website
+
+https://memory.lixit.ru
 
 ## Available Scripts
 
