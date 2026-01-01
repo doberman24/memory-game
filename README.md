@@ -12,7 +12,7 @@ The project focuses on state management, event handling, and component-based arc
 - React
 - JavaScript
 
-## website
+## Website
 
 https://memory.lixit.ru
 
