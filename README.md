@@ -2,7 +2,7 @@
 
 A card game consisting of paired pictures, where the main goal of the game is to "open" as many paired cards as possible. The game is played with two identical decks of cards with pictures on the front side. It is necessary to open all pairs of cards in a certain number of moves.
 
-The game is written in React. The code is taken from practical lessons from the HTML Academy, and slightly modified. Namely, at this stage, the code is structured and located in different files, some nuances have been changed. Further refinement is planned.
+The game is written in React. The code is structured and located in different files.
 
 **The application can be launched by following the link http://memory.lixit.ru.**
 
